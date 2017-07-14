@@ -16,5 +16,5 @@ function love.conf(t)
 	t.modules.physics = false
 	t.modules.sound = true
 
-	t.console = true
+	t.console = false
 end
